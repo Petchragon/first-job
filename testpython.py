@@ -3,6 +3,6 @@ b = int(input("ใส่เลข: "))
 c = int(input("ใส่เลข: "))
 d = int(input("ใส่เลข: "))
 r = int(input("ใส่เลข: "))
-number_list = [a,b,c,d,r]
-number_list.sort()
-print(number_list)
+RRR_list = [a,b,c,d,r]
+RRR_list.sort()
+print(RRR_list)
